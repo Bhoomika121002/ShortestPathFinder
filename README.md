@@ -50,9 +50,9 @@ Dijkstra's algorithm makes use of the weights of the edges to find the path that
 
 
 ## Applications
-● This project can be used in a more defined and well rounded Flight Routing Management System.
+● This project can be used in a more defined and well rounded Flight Routing Management System.<br />
 ● Project can be used in Air traffic flow management. (It will suggest the different routes that can be followed to reach a destination which have less traffic) 
-● The target beneficiaries of the proposed methodology are the people who need to travel to destinations faster for business purposes. It is also helpful in emergencies as it will reduce the customer wait time and also reduce the delays in flights.
+● The target beneficiaries of the proposed methodology are the people who need to travel to destinations faster for business purposes. It is also helpful in emergencies as it will reduce the customer wait time and also reduce the delays in flights.<br />
 ● Vehicle Routing Problem, the goal is to find optimal routes for vehicles visiting a set of locations(cities).
 
 
@@ -62,8 +62,8 @@ The main goal of the project is to use it in airlines in the country to help red
 
 
 ## References
-[1] Banerjee, A. and Kumar, P., 2022. Review of Shortest Path Algorithms. International Journal of Computer Science and Mobile Computing, 11(4), pp.1-8.
-[2] Salem, I., Mijwil, M., Abdulqader, A. and Ismaeel, M., 2022. Flight-schedule using Dijkstra's algorithm with comparison of route findings. International Journal of Electrical and Computer Engineering (IJECE), 12(2), p.1675.
+[1] Banerjee, A. and Kumar, P., 2022. Review of Shortest Path Algorithms. International Journal of Computer Science and Mobile Computing, 11(4), pp.1-8.<br />
+[2] Salem, I., Mijwil, M., Abdulqader, A. and Ismaeel, M., 2022. Flight-schedule using Dijkstra's algorithm with comparison of route findings. International Journal of Electrical and Computer Engineering (IJECE), 12(2), p.1675.<br />
 [3] Ö. O. Dursun and A. Özger, “Multi-depot heterogeneous fleet vehicle routing problem with time windows: Airline and Roadway Integrated Routing,” International Journal of Industrial Engineering Computations, vol. 13, no. 3, pp. 435–456, 2022. 
 
 

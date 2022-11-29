@@ -11,6 +11,17 @@ We’ve used Priority Queues for the implementation of Dijkstra because priority
 
 ![unnamed](https://user-images.githubusercontent.com/78655015/204598638-6e07472c-1f58-487d-9ec0-6b464ea90d5b.png)
 
+
+# Problem Statement
+The recurring problem of in-flight customer wait time and the rise in the cost of airfare.
+
+# Objectives
+
+● It is used for finding the shortest path of flights using the Dijkstra algorithm which will save Time and Cost for the customer.
+● To study, determine and identify the shortest path in a network used for the organization of Flights.
+● We utilized a graph to depict a map, where the vertices are cities and the edges are the routes between the cities. The graph will be directed if the routes are one-way; otherwise, it will be undirected.
+
+
 # DATA STRUCTURES
 ## ADJACENCY LISTS: 
 By far the most common data structure for storing graphs is the adjacency list. It is an array of lists, each containing the neighbors of one of the vertices or the out-neighbors if the graph is directed.
@@ -35,13 +46,25 @@ A Dutch computer scientist, Edsger Dijkstra, 1959, proposed an algorithm that ca
 An algorithm used for finding the shortest distance, or path, from starting node to the target node in a weighted graph is known as Dijkstra’s Algorithm.
 Dijkstra's algorithm makes use of the weights of the edges to find the path that minimizes the total distance (weight) between the source node and all other nodes. This algorithm is also known as the single-source shortest path algorithm.
 
-# Problem Statement
-The recurring problem of in-flight customer wait time and the rise in the cost of airfare.
+## METHODOLOGY
 
-# Objectives
 
-● It is used for finding the shortest path of flights using the Dijkstra algorithm which will save Time and Cost for the customer.
-● To study, determine and identify the shortest path in a network used for the organization of Flights.
-● We utilized a graph to depict a map, where the vertices are cities and the edges are the routes between the cities. The graph will be directed if the routes are one-way; otherwise, it will be undirected.
+## Applications
+● This project can be used in a more defined and well rounded Flight Routing Management System.
+● Project can be used in Air traffic flow management. (It will suggest the different routes that can be followed to reach a destination which have less traffic) 
+● The target beneficiaries of the proposed methodology are the people who need to travel to destinations faster for business purposes. It is also helpful in emergencies as it will reduce the customer wait time and also reduce the delays in flights.
+● Vehicle Routing Problem, the goal is to find optimal routes for vehicles visiting a set of locations(cities).
+
+
+## Conclusion
+
+The main goal of the project is to use it in airlines in the country to help reduce the time. By improving on-time performance, decreasing customer wait times, increasing the working availability of aircraft and ground assets, and assisting employees in making the most efficient use of their valuable time. This will help to significantly reduce costs while improving the experience of both employees and customers.
+
+
+## References
+[1] Banerjee, A. and Kumar, P., 2022. Review of Shortest Path Algorithms. International Journal of Computer Science and Mobile Computing, 11(4), pp.1-8.
+[2] Salem, I., Mijwil, M., Abdulqader, A. and Ismaeel, M., 2022. Flight-schedule using Dijkstra's algorithm with comparison of route findings. International Journal of Electrical and Computer Engineering (IJECE), 12(2), p.1675.
+[3] Ö. O. Dursun and A. Özger, “Multi-depot heterogeneous fleet vehicle routing problem with time windows: Airline and Roadway Integrated Routing,” International Journal of Industrial Engineering Computations, vol. 13, no. 3, pp. 435–456, 2022. 
+
 
 

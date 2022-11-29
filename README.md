@@ -17,8 +17,8 @@ The recurring problem of in-flight customer wait time and the rise in the cost o
 
 # Objectives
 
-● It is used for finding the shortest path of flights using the Dijkstra algorithm which will save Time and Cost for the customer.
-● To study, determine and identify the shortest path in a network used for the organization of Flights.
+● It is used for finding the shortest path of flights using the Dijkstra algorithm which will save Time and Cost for the customer.<br />
+● To study, determine and identify the shortest path in a network used for the organization of Flights.<br />
 ● We utilized a graph to depict a map, where the vertices are cities and the edges are the routes between the cities. The graph will be directed if the routes are one-way; otherwise, it will be undirected.
 
 
@@ -51,7 +51,7 @@ Dijkstra's algorithm makes use of the weights of the edges to find the path that
 
 ## Applications
 ● This project can be used in a more defined and well rounded Flight Routing Management System.<br />
-● Project can be used in Air traffic flow management. (It will suggest the different routes that can be followed to reach a destination which have less traffic) 
+● Project can be used in Air traffic flow management. (It will suggest the different routes that can be followed to reach a destination which have less traffic).<br /> 
 ● The target beneficiaries of the proposed methodology are the people who need to travel to destinations faster for business purposes. It is also helpful in emergencies as it will reduce the customer wait time and also reduce the delays in flights.<br />
 ● Vehicle Routing Problem, the goal is to find optimal routes for vehicles visiting a set of locations(cities).
 
